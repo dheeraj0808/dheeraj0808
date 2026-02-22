@@ -1,4 +1,6 @@
 # 💫 About Me:
+[![](https://visitcount.itsvg.in/api?id=dheeraj0808&icon=0&color=0)](https://visitcount.itsvg.in)
+
 ## 🚀 About Me<br><br>Hi 👋, I’m a Software Developer who loves building meaningful digital products.  <br>I focus on writing clean code, designing scalable systems, and creating smooth user experiences.<br><br>🔭 Currently working on personal and production-level projects  <br>🌱 Learning advanced backend development & system design  <br>🤝 Looking to collaborate on open-source and real-world applications  <br>💡 Interested in building disciplined, productivity-focused apps  <br><br>⚙️ Tech Stack: JavaScript | Node.js | React | MySQL | REST APIs  <br>⚡ Motto: Keep building. Keep improving.
 
 
@@ -16,6 +18,5 @@
 ![](https://github-contributor-stats.vercel.app/api?username=dheeraj0808&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=dheeraj0808&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
